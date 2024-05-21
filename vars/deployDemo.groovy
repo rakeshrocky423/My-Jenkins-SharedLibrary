@@ -1,3 +1,4 @@
-def call (){
-  echo "Deploying the artifacts!"
+def call() {
+    println "Deploying the artifacts!"
 }
+
